@@ -5,4 +5,3 @@ We've prepared a notebook for the rest of this class, which you can access [here
 ```
 $ jupyter notebook
 ```
-
